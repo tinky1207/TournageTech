@@ -1,0 +1,20 @@
+{
+  "name": "watch-module",
+  "version": "0.7.6",
+  "description": "Custom Expo module for watch integration",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "scripts": {},
+  "peerDependencies": {
+    "expo": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "expo-modules-core": "^3.0.18" 
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "expo-module-scripts": "^5.0.7",
+    "typescript": "~5.9.2"
+  }
+}
